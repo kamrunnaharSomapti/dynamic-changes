@@ -1,0 +1,240 @@
+/* slider responsive */
+@media only screen and (max-width: 600px) {
+  .slides .slide-content {
+    left: 0%;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1280px) {
+  .hero-slider-content span {
+    margin-bottom: 4px;
+  }
+  .hero-slider-content h2 {
+    font-size: 24px;
+  }
+  .services-card-body .content-box h5 {
+    font-size: 16px;
+  }
+  .services-card-body .content-box .btn-details {
+    margin-top: 57px;
+  }
+}
+@media (min-width: 577px) and (max-width: 720px) {
+  .hero-slider-content h2 {
+    font-size: 32px;
+  }
+  .row-inner .column-inner {
+    margin-bottom: 20px;
+  }
+  .iframe-container {
+    padding-bottom: 62%;
+  }
+  .request-call .requet-call-action-content .sec-same-button a {
+    margin-bottom: 25px;
+  }
+}
+@media (min-width: 320px) and (max-width: 576px) {
+  /* slider */
+  .hero-slider-content span {
+    margin-bottom: 0px;
+  }
+  .hero-slider-content h2 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .slider-back-image {
+    height: 80vh;
+  }
+
+  .hero-slider-content p {
+    font-size: 17px;
+    line-height: 24px;
+  }
+  .slides .slide-content {
+    width: 100%;
+    bottom: 14%;
+  }
+  .slides .slide-content {
+    left: 1%;
+  }
+  /* feature */
+  .services-List-block .list-type-two-col li .list-title {
+    font-size: 14px;
+  }
+  .sub-heading-style-one {
+    font-size: 23px;
+    line-height: 27px;
+  }
+  .art-p-sx {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .services-List-block .list-type-two-col li {
+    max-width: 100%;
+  }
+  .imageBoxWrap {
+    padding-top: 0px;
+  }
+  .services-List-block .list-type-two-col li {
+    margin-bottom: 30px;
+    margin-right: 4px;
+  }
+  /* who we are */
+  .single-box-cintainer {
+    margin-bottom: 30px;
+  }
+  .image-right-align i {
+    font-size: 3em;
+  }
+  /* solution */
+  .content-box-content h3 {
+    font-size: 17px;
+    line-height: 24px;
+  }
+  /* module */
+  .headline-center-container h2 b {
+    font-size: 25px;
+    line-height: 27px;
+  }
+  .row-inner .column-inner {
+    padding-bottom: 20px;
+  }
+  .iframe-container {
+    padding-bottom: 331px;
+  }
+  .about-erp p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  #testimonial .carousel-control-prev,
+  #testimonial .carousel-control-next {
+    display: none;
+  }
+  .display-mobile-only {
+    display: block;
+  }
+  .display-pc {
+    display: none;
+  }
+  .list-type-two-col li .content {
+    display: none;
+  }
+  /* bootom footer */
+  .policy_terms {
+    display: none;
+  }
+  .copyright_text .dis-none {
+    display: none;
+  }
+  .bottom_text {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .icon-cus-edit {
+    zoom: 1.8;
+  }
+  .ai-boxes p {
+    font-size: 10px;
+  }
+}
+@media only screen and (min-width: 576px) {
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .video-text-container {
+    margin-top: 22%;
+  }
+  .rightsection-image-with-link {
+    margin-top: 7%;
+  }
+  .footer-left-right {
+    margin: 0px auto;
+  }
+  .content-box-content {
+    margin-left: 13px;
+  }
+  .list-type-two-col li .content {
+    width: 0px;
+  }
+}
+@media (min-width: 768px) {
+  .display-pc {
+    display: block;
+  }
+  .display-mobile-only {
+    display: none;
+  }
+}
+/* @media (max-width: 600px) {
+  .list-type-two-col li .content {
+    width: 2% !important;
+  }
+} */
+
+@media only screen and (max-width: 993px) {
+  .tris-mis-vis-content-wrap {
+    margin-top: 65px;
+    margin-bottom: 60px;
+  }
+  .slides .slide-content {
+    top: 50%;
+    zoom: 0.75;
+    transform: translate(0, -50%);
+  }
+  .tris-mobile-hide {
+    display: none;
+  }
+  .tris-prod-serv-logo-wrap::before {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .tris-mis-vis-content-wrap {
+    margin-top: 15px;
+    margin-bottom: 50px;
+  }
+  h1.vis-mis-heading {
+    font-size: 40px;
+  }
+  p.an-p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  h4.vis-mis-text {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .vis-mis-icon {
+    height: 60px;
+  }
+  h1.tris-heading {
+    font-size: 40px;
+  }
+  .tris-wwd-text {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .slides .slide-content {
+    top: 50%;
+    zoom: 0.75;
+    transform: translate(0, -50%);
+  }
+  .col-lg-3.col-sm-6.mb-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .tris-what-we-do-text-wrap {
+    padding: 0 15px;
+  }
+}
+@media only screen and (max-width: 555px) {
+  .col-lg-3.col-sm-6.mb-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  h1.tris-heading {
+    font-size: 30px;
+  }
+}

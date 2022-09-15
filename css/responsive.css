@@ -135,6 +135,9 @@
   .ai-boxes p {
     font-size: 10px;
   }
+  .slider-back-image {
+    height: auto;
+  }
 }
 @media only screen and (min-width: 576px) {
 }

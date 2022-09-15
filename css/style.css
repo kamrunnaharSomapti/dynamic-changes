@@ -2060,11 +2060,13 @@ span.tris-heading-highlight-two::after {
 .ai-boxes {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   background: #0000003b;
   padding: 10px;
+  gap: 12px;
 }
+
 .tris-prod-serv-ai-boxes {
   justify-content: flex-start;
 }

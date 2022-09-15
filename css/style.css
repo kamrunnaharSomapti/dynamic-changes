@@ -2060,7 +2060,7 @@ span.tris-heading-highlight-two::after {
 .ai-boxes {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   background: #0000003b;
   padding: 10px;

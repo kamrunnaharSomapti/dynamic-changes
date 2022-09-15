@@ -138,6 +138,13 @@
   .slider-back-image {
     height: auto;
   }
+  .mobile-margin-leader {
+    margin-bottom: 25px;
+  }
+  .footer-1st-column,
+  .footer-left-right {
+    margin-bottom: 30px;
+  }
 }
 @media only screen and (min-width: 576px) {
 }
